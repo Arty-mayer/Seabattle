@@ -1,0 +1,4 @@
+{
+    "sketch": "Seabattle.ino",
+    "board": "arduino:avr:mega"
+}
