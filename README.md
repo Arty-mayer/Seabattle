@@ -1,5 +1,5 @@
 # Game Seabattle for Arduino. 
-###(development continues)
+### (development continues)
 ![Game](seabattle.gif)
 ##### For the Mega 2560 board. 
 ##### But should also work on UNO.
